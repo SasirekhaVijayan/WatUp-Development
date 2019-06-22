@@ -9,3 +9,5 @@ AUTHOR:SASIREKHA
 3.Last seen code
 
 4.Attachments(Image, videos,Audio) code
+
+5. Hiding the last seen from watsapp users
