@@ -11,3 +11,7 @@ AUTHOR:SASIREKHA
 4.Attachments(Image, videos,Audio) code
 
 5. Hiding the last seen from watsapp users
+
+6.Add video Features
+
+7.Add audio Features
